@@ -1,0 +1,12 @@
+../src/adder.sv
+../src/alu.sv
+../src/brcomp.sv
+../src/ctrl_unit.sv
+../src/immgen.sv
+../src/ins_mem.sv
+../src/lsu.sv
+../src/mux.sv
+../src/pc_counter.sv
+../src/regfile.sv
+../src/singlecycle.sv
+../src/wb.sv
